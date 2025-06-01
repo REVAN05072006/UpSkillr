@@ -26,3 +26,13 @@ A lightweight AI-powered web application that generates clear, structured explan
 This application leverages the DeepSeek-V3-0324 api to dynamically generate educational content based on user queries. When a topic is submitted, the backend sends a prompt to the AI, requesting a structured explanation. The API returns a human-readable response, which is then rendered neatly on the webpage. No data is stored or logged, ensuring a privacy-focused experience.
 
 ---
+## STRUCTURE
+
+full_stack/
+├── static/
+│   └── style.css
+├── templates/
+│   └── index.html
+├── app.py
+├── .env
+└── requirements.txt
