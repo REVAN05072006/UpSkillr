@@ -28,11 +28,4 @@ This application leverages the DeepSeek-V3-0324 api to dynamically generate educ
 ---
 ## STRUCTURE
 
-full_stack/
-├── static/
-│   └── style.css
-├── templates/
-│   └── index.html
-├── app.py
-├── .env
-└── requirements.txt
+![WhatsApp Image 2025-06-01 at 16 37 41_757983cb](https://github.com/user-attachments/assets/557904f3-6e0c-4e31-96b6-3ac0de9efe7d)
